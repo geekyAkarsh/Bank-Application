@@ -5,4 +5,3 @@ public interface Bank {
     boolean withdrawMoney(int money);
     int getROI();
     int totalInterest(int loanAmount,int timeInYears);
-}
